@@ -13,7 +13,7 @@ Run NSAppleScript desciption:
 	second			--Need to change
 	third			--Don't touch
 	fourth			--Don't touch
----------------------------------------------------------------------
+---
 这个工作流程可以让你方便地连接或断开VPN。
 
 Keyword描述：
